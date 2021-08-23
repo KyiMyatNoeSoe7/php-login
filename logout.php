@@ -4,4 +4,3 @@
    unset($_SESSION["password"]);
 
    header('location:login.php');
-?>
