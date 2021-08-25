@@ -11,7 +11,7 @@ The complete process of creating a user registration system where users can crea
 
 Clone the repository
 ```
-git clone https://github.com/KyiMyatNoeSoe/php-register.git
+git clone https://github.com/KyiMyatNoeSoe7/php-register.git
 ```
 
 Import database from command prompt
