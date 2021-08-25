@@ -1,4 +1,36 @@
-# Register
+# Membership Project
+The complete process of creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL.It also show how to make home page accessible only to logged-in users. Any other user not logged in will not be able to access the page.
+
+## Requirements
+
+- PHP 8
+- Apache 
+- MySQL 8
+
+## Installation
+
+Clone the repository
+```
+git clone https://github.com/KhineZinThaw7/php-register.git
+```
+
+Import database from command prompt
+
+- Create database 
+- Open Command Prompt
+- Type this [Syntax](#syntax)
+
+Syntax-
+
+```
+mysql -u username -p database_name < file.sql
+```
+
+>**username** = *Your MySQL username.*<br /><br />
+**database_name** = *Database name in which you want to import.*<br /><br />
+**file.sql** = *SQL file name.*
+
+# Features
 
 - [Register](#register)
 - [Login](#login)
